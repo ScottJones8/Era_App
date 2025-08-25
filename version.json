@@ -1,6 +1,7 @@
 {
   "latestVersion": "1.9.13",
   "forceUpdate": true,
-  "releaseNotes": "New NPC's added (April, Orla, Sam) \nPlayer info updated - will display <color=#F3361D>red.</color>\n"
+  "releaseNotes": "New NPC's added (April, Orla, Sam) \ncharacter info updated - will display <color=#F3361D>red</color>\n \nKnown locations added to character info\n"
 }
+
 
