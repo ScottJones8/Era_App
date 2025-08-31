@@ -1,8 +1,9 @@
 {
   "latestVersion": "1.9.14",
   "forceUpdate": true,
-  "releaseNotes": "New NPC's added (April, Orla, Sam) \ncharacter info updated - will display <color=#F3361D>red</color>\n \nKnown locations added to character info\n \nColours added to characters info. <color=#41BF91>Buff|Debuff.</color>\n \n<color=#F3361D>New information</color>\n"
+  "releaseNotes": "New NPC's added (Ricardo). Player stast updated (Injection & Food)"
 }
+
 
 
 
